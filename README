@@ -1,0 +1,5 @@
+This is python script download from http://kichiki.web.fc2.com/pngmerge/.
+the software use to merge pngs to apng
+file:
+	_pngmerge.py: original file
+	pngmerge.py: some change for python3
